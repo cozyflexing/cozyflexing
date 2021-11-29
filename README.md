@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cozyflexing
+- 👀 I’m interested in anything blockchain and F1
+- 🌱 I’m currently learning Solidity
+- 📫 How to reach me cozyflexing@gmail.com
